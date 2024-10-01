@@ -1,2 +1,3 @@
 # toxic_telegram_app
-toxic assistant for work chat
+
+This is a toxic assistant for work chat. He will dislike all incoming messages (except yours) in selected work chats. Messages inviting you to go to lunch or smoke will be carefully forwarded to you, and the sender will be pardoned.
